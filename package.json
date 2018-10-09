@@ -1,0 +1,14 @@
+{
+  "name": "gerarupdateslinksufrn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node index.js"
+  },
+  "author": "Hallessandro Dvilla <hd.jesus93@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^7.5.0"
+  }
+}
